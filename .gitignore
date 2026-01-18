@@ -42,3 +42,8 @@ pip-wheel-metadata
 poetry/core/*
 
 public
+
+
+
+/.claude
+/.beads
